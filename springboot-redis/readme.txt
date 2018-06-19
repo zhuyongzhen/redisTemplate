@@ -1,0 +1,1 @@
+这个里边代表的是  redisTemplate的方案
